@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1764852499,
+        "title": "3",
+        "author": "meow",
+        "category": "water",
+        "content": "12121212",
+        "images": [],
+        "date": "2025-12-04T13:48:19+01:00",
+        "comments": [
+            {
+                "id": 1764852526,
+                "author": "meow",
+                "content": "w",
+                "date": "2025-12-04T13:48:46+01:00"
+            }
+        ]
+    },
+    {
+        "id": 1764851079,
+        "title": "4",
+        "author": "hi",
+        "category": "air",
+        "content": "232",
+        "images": [],
+        "date": "2025-12-04T13:24:39+01:00",
+        "comments": []
+    }
+]

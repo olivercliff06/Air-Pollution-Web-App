@@ -1,0 +1,15 @@
+[
+    {
+        "id": "user_693182560364d2.51381196",
+        "username": "lsj",
+        "password_hash": "$2y$10$Wc9TykbMZZcDQCHHPeE.DuYE.yxZmLpWk\/PwppiL784W6CpzwZfaq",
+        "created_at": "2025-12-04T13:45:10+01:00"
+    },
+    {
+        "id": "user_693182710b0277.34925313",
+        "username": "meow",
+        "password_hash": "$2y$10$s.6F1ggy0MQTzKpFKOlo1OQ5Tsg6WmjXnQvUOnTc16CXye8D.28Ce",
+        "created_at": "2025-12-04T13:45:37+01:00",
+        "bio": "i like cats"
+    }
+]
